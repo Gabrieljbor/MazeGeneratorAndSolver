@@ -1,6 +1,6 @@
 # C Coursework
 
-This program displays a random computer generated maze from the array "maze". It always starts the maze at the top left corner (indicated by a green square) and the end of the maze is randomly chosen to be somewhere along the right side (shown by a flag print). The program then solves the maze and the solved path is stored in the array "solution".  It then displays a robot (a green arrow) which moves through the maze along the solved path changing direction with each turn until it reaches the finishing flag.
+This program displays a random computer generated maze from the array "maze". It always starts the maze at the top left corner (indicated by a green square) and the end of the maze is randomly chosen to be somewhere along the right side (shown by a flag print). The program then solves the maze and the solved path is stored in the array "solution".  It then displays a robot (a red arrow) which moves through the maze along the solved path changing direction with each turn until it reaches the finishing flag.
 
 ## Files
 
